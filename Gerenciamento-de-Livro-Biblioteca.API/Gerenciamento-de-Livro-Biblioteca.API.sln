@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciamento-de-Livro-Biblioteca.API", "Gerenciamento-de-Livro-Biblioteca.API\Gerenciamento-de-Livro-Biblioteca.API.csproj", "{05E11D2E-F012-483C-8ABA-8EBC37119834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E11D2E-F012-483C-8ABA-8EBC37119834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E11D2E-F012-483C-8ABA-8EBC37119834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E11D2E-F012-483C-8ABA-8EBC37119834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E11D2E-F012-483C-8ABA-8EBC37119834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803B0CCE-2CB8-4197-9A66-5CD7525C43EA}
+	EndGlobalSection
+EndGlobal
