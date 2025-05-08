@@ -13,6 +13,7 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Data
         /// <param name="modelBuilder">Objeto usado para configurar o modelo (entidades, propriedades, relacionamentos, etc).</param>
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(GerenciamentoDeLivrosBibliotecaContext).Assembly);
             //Loop por cada entidade de entidade no modelo(ex Pessoa)
             foreach (var entityType in modelBuilder.Model.GetEntityTypes())
             {

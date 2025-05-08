@@ -1,5 +1,7 @@
 ﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities;
+using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs;
 using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Repository;
+using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Data.Repository

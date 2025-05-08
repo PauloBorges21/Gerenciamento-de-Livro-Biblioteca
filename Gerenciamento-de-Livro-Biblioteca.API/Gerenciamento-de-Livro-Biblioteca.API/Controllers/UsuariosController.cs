@@ -1,7 +1,6 @@
 ﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using System;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Controllers
 {
@@ -28,8 +27,15 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Controllers
         [HttpGet("{id}/busca-por-id")]
         public async Task<IActionResult> BuscaPorId(Guid id)
         {
-
-            return Ok("Hello from UsuarioController");
+            var usuarioDba = await _usuario.BuscaPorId(id);
+            if (usuarioDba != null)
+            {
+                return Ok(usuarioDba);
+            }
+            else
+            {
+                return NotFound($"Usuário com o ID {id} não foi encontrado.");
+            }
         }
 
 

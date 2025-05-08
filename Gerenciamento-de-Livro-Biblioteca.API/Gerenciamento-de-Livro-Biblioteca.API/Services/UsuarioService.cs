@@ -1,6 +1,7 @@
 ﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs;
 using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Repository;
 using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Services;
+using Gerenciamento_de_Livro_Biblioteca.API.Mappers;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Services
 {
@@ -20,12 +21,8 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Services
             var usuario = await _usuarioRepository.BuscaPorId(id);
             if (usuario == null)
                 return null;
-            return new UsuariosDTO
-            {
-                Nome = usuario.Nome,
-                Email = usuario.Email,
-                Perfil = usuario.Perfil,
-            };
+            return UsuarioMapper.ToDTO(usuario);
+            
         }
     }
 }
