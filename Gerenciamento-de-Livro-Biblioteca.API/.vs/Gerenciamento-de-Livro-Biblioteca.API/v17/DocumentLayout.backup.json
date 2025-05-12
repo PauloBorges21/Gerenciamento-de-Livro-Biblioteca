@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\presentation\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\presentation\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\presentation\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\presentation\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\mappers\\usuariomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|solutionrelative:gerenciamento-de-livro-biblioteca.api\\entities\\interfaces\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05E11D2E-F012-483C-8ABA-8EBC37119834}|Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj|d:\\source\\repos\\mentoria\\gerenciamento-de-livro-biblioteca\\gerenciamento-de-livro-biblioteca.api\\gerenciamento-de-livro-biblioteca.api\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\docker-compose.yml",
+              "ToolTip": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\docker-compose.yml",
+              "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\docker-compose.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-09T14:29:46.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\.env",
+              "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\.env",
+              "ToolTip": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\.env",
+              "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T14:27:47.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UsuarioMapper.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Mappers\\UsuarioMapper.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Mappers\\UsuarioMapper.cs",
@@ -66,20 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Data\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Data\\Repository\\UsuarioRepository.cs",
               "ToolTip": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Data\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\Data\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T20:10:56.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Entities\\Interfaces\\Repository\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Entities\\Interfaces\\Repository\\IUsuarioRepository.cs",
@@ -87,11 +121,12 @@
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\Entities\\Interfaces\\Repository\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T20:08:46.682Z"
+              "WhenOpened": "2025-05-08T20:08:46.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Services\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Services\\UsuarioService.cs",
@@ -99,11 +134,12 @@
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAmwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:32:10.194Z"
+              "WhenOpened": "2025-05-08T17:32:10.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Controllers\\UsuariosController.cs",
@@ -111,19 +147,21 @@
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\Controllers\\UsuariosController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:45:31.245Z"
+              "WhenOpened": "2025-05-08T17:45:31.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\appsettings.json",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\appsettings.json",
               "ToolTip": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\appsettings.json",
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T22:24:18.603Z"
+              "WhenOpened": "2025-05-08T22:24:18.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,11 +173,12 @@
               "RelativeToolTip": "Gerenciamento-de-Livro-Biblioteca.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T22:24:22.152Z"
+              "WhenOpened": "2025-05-08T22:24:22.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Controllers\\LivrosController.cs",
@@ -151,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Presentation\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Presentation\\Extensions\\ServiceExtensions.cs",
@@ -163,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API\\Entities\\Interfaces\\Services\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Gerenciamento-de-Livro-Biblioteca.API\\Entities\\Interfaces\\Services\\IUsuarioService.cs",
