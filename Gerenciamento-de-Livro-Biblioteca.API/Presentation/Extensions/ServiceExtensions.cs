@@ -11,6 +11,9 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Presentation.Extensions
         {
             services.AddScoped<IUsuarioService, UsuarioService>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+
+            services.AddScoped<ILivrosService, LivrosService>();
+            services.AddScoped<ILivrosRepository, LivrosRepository>();
             // Add application services here
 
             //services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

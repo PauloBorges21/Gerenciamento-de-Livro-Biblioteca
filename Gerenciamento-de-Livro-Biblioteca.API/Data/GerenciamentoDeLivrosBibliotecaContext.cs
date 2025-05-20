@@ -43,7 +43,7 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Data
 
             modelBuilder.Entity<Usuarios>(entity =>
             {
-                entity.ToTable("Usuarios"); // Note as aspas duplas
+                entity.ToTable("Usuarios"); 
                 entity.Property(p => p.Id).HasColumnName("Id");
                 entity.Property(p => p.Nome).HasColumnName("Nome");
                 entity.Property(p => p.Email).HasColumnName("Email");
@@ -53,6 +53,22 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Data
                 entity.Property(p => p.DataAtualizacao).HasColumnName("DataAtualizacao");
                 entity.Property(p => p.Senha).HasColumnName("Senha");
 
+            });
+
+            modelBuilder.Entity<Livros>(entity =>
+            {
+                entity.ToTable("Livros"); 
+                entity.Property(p => p.Id).HasColumnName("Id");
+                entity.Property(p => p.Titulo).HasColumnName("Titulo");
+                entity.Property(p => p.Autor).HasColumnName("Autor");
+                entity.Property(p => p.ISBN).HasColumnName("ISBN");
+                entity.Property(p => p.AnoPublicacao).HasColumnName("AnoPublicacao");
+                entity.Property(p => p.DataCadastro).HasColumnName("DataCadastro");
+                entity.Property(p => p.Editora).HasColumnName("Editora");
+                entity.Property(p => p.NumeroPaginas).HasColumnName("NumeroPaginas");
+                entity.Property(p => p.Resumo).HasColumnName("Resumo");
+                entity.Property(p => p.Ativo).HasColumnName("Ativo");
+                entity.Property(p => p.DataCadastro).HasColumnName("DataCadastro");
             });
 
             // Chama o método base para garantir que outras configurações padrão sejam aplicadas
@@ -85,5 +101,6 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Data
 
         }
         public DbSet<Usuarios> Usuarios { get; set; }
+        public DbSet<Livros> Livros { get; set; }
     }
 }

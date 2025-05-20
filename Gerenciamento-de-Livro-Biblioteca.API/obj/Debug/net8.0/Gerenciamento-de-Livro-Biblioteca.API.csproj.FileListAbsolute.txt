@@ -63,3 +63,4 @@ D:\Source\Repos\Mentoria\Gerenciamento-de-Livro-Biblioteca\Gerenciamento-de-Livr
 D:\Source\Repos\Mentoria\Gerenciamento-de-Livro-Biblioteca\Gerenciamento-de-Livro-Biblioteca.API\obj\Debug\net8.0\Gerenciamento-de-Livro-Biblioteca.API.pdb
 D:\Source\Repos\Mentoria\Gerenciamento-de-Livro-Biblioteca\Gerenciamento-de-Livro-Biblioteca.API\obj\Debug\net8.0\Gerenciamento-de-Livro-Biblioteca.API.genruntimeconfig.cache
 D:\Source\Repos\Mentoria\Gerenciamento-de-Livro-Biblioteca\Gerenciamento-de-Livro-Biblioteca.API\obj\Debug\net8.0\ref\Gerenciamento-de-Livro-Biblioteca.API.dll
+D:\Source\Repos\Mentoria\Gerenciamento-de-Livro-Biblioteca\Gerenciamento-de-Livro-Biblioteca.API\bin\Debug\net8.0\BCrypt.Net-Next.dll

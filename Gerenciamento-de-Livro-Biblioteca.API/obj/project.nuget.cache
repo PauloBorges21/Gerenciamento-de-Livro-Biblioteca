@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PIO2pKL/RU8=",
+  "dgSpecHash": "pUVNNIfNKhE=",
   "success": true,
   "projectFilePath": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\paulo.borges\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\paulo.borges\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.15\\microsoft.aspnetcore.cryptography.internal.8.0.15.nupkg.sha512",
     "C:\\Users\\paulo.borges\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.15\\microsoft.aspnetcore.cryptography.keyderivation.8.0.15.nupkg.sha512",
     "C:\\Users\\paulo.borges\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\8.0.15\\microsoft.aspnetcore.identity.entityframeworkcore.8.0.15.nupkg.sha512",

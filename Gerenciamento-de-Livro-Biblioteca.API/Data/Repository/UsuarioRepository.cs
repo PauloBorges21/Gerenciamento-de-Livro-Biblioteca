@@ -1,7 +1,5 @@
 ﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities;
-using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs;
 using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Repository;
-using Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Data.Repository
@@ -18,14 +16,27 @@ namespace Gerenciamento_de_Livro_Biblioteca.API.Data.Repository
         {
             return await _context.Usuarios
                 .AsNoTracking()
-                .FirstOrDefaultAsync(x => x.Id == id && x.Ativo == 1);
+                .SingleOrDefaultAsync(x => x.Id == id && x.Ativo == 1);
         }
 
-        public async Task<bool> Atualizar(Usuarios usuario)
+        public async Task<Usuarios> Atualizar(Usuarios usuario)
         {
             _context.Usuarios.Update(usuario);
-            int affectedRows = await _context.SaveChangesAsync();
-            return affectedRows > 0;
+            await _context.SaveChangesAsync(); // Salva as alterações no banco
+            return usuario; // Retorna o usuário atualizado
+        }
+
+        public async Task<Usuarios> Criar(Usuarios usuario)
+        {
+            _context.Usuarios.Add(usuario);
+            await _context.SaveChangesAsync(); // Salva as alterações no banco
+            return usuario; // Retorna o usuário atualizado
+        }
+
+        public async Task<Usuarios> BuscaPorEmail(string email)
+        {
+            return await _context.Usuarios
+        .SingleOrDefaultAsync(u => u.Email == email);
         }
     }
 

@@ -1,4 +1,4 @@
-﻿namespace Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs
+﻿namespace Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs.Usuario
 {
     public class UsuariosDTO
     {

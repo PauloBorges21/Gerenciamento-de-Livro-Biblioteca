@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciamento-de-Livro-Biblioteca.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a283e939d0113042ed6c667ce4c5a0419c21daf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c80b33c642ed5ac615bea00853a45dc031771a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerenciamento-de-Livro-Biblioteca.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerenciamento-de-Livro-Biblioteca.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

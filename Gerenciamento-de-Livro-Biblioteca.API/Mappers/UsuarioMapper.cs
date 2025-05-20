@@ -1,5 +1,5 @@
 ﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities;
-using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs;
+using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs.Usuario;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Mappers
 {

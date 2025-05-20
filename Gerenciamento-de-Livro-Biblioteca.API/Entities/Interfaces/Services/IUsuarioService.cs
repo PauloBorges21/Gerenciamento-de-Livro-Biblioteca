@@ -1,12 +1,13 @@
-﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs;
-using Microsoft.AspNetCore.Mvc;
+﻿using Gerenciamento_de_Livro_Biblioteca.API.Entities.DTOs.Usuario;
 
 namespace Gerenciamento_de_Livro_Biblioteca.API.Entities.Interfaces.Services
 {
     public interface IUsuarioService
     {
+        Task<UsuariosDTO> Post(CreateUsuarioDTO usuario);
         Task<UsuariosDTO> BuscaPorId(Guid id);
-        
-        Task<bool> Delete(Guid id);
+        Task<UsuariosDTO> Delete(Guid id);
+        Task<UsuariosDTO> Put(UpdateUsuarioDTO usuario);
+        Task<UsuariosDTO> VerificaSeUsuarioJaCadastrado(string email);
     }
 }
