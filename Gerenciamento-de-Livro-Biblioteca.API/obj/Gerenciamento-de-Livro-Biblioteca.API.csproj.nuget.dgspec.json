@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj": {}
+    "C:\\Repo\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj": {}
   },
   "projects": {
-    "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj": {
+    "C:\\Repo\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj",
+        "projectUniqueName": "C:\\Repo\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj",
         "projectName": "Gerenciamento-de-Livro-Biblioteca.API",
-        "projectPath": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj",
-        "packagesPath": "C:\\Users\\paulo.borges\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\Repos\\Mentoria\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\obj\\",
+        "projectPath": "C:\\Repo\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\Gerenciamento-de-Livro-Biblioteca.API.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Repo\\Gerenciamento-de-Livro-Biblioteca\\Gerenciamento-de-Livro-Biblioteca.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\paulo.borges\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,11 +64,11 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[9.0.8, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.21.0, )"
+              "version": "[1.22.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -92,7 +92,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

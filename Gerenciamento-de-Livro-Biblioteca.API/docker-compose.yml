@@ -1,0 +1,32 @@
+﻿services:
+  postgres_db:
+    image: postgres:15
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: DbGerenciamentoDeLivros
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gerenciamento_livros_api
+    restart: always
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+      DB_CONNECTION_STRING: "Host=postgres_db;Port=5432;Database=DbGerenciamentoDeLivros;Username=postgres;Password=1234"
+    ports:
+      - "5000:80"
+    depends_on:
+      - postgres_db
+    volumes:
+      - .:/app
+
+volumes:
+  postgres_data:
